@@ -25,7 +25,7 @@ const BelgeSayfasi = () => {
 
   return (
     <div className="belge-container">
-      <h2 className="belge-title">Yeni Belge Ekle levent</h2>
+      <h2 className="belge-title">Yeni Belge Ekle levent zübeyde</h2>
       <form onSubmit={handleSubmit} className="belge-form">
         <input
           type="text"
